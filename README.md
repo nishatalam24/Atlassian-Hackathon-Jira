@@ -103,6 +103,10 @@ permissions:
 ## 📸 Screenshots
 
 *Include screenshots of the panel, filtering, label actions, and weather widget.*
+![image](https://github.com/user-attachments/assets/59a8b820-25c0-4a3f-9b63-1150b54d2e14)
+![image](https://github.com/user-attachments/assets/914376ae-2316-4e60-a1b3-96e973345c97)
+![image](https://github.com/user-attachments/assets/457a5b7e-ab98-49fd-b0d5-350057f3a48f)
+![image](https://github.com/user-attachments/assets/42106754-c64e-418c-9f6f-0ffb18137e77)
 
----
+
 
