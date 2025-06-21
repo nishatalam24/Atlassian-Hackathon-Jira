@@ -104,6 +104,3 @@ permissions:
 
 *Include screenshots of the panel, filtering, label actions, and weather widget.*
 
----
-![image](https://github.com/user-attachments/assets/f2d26db3-9d74-44c6-8fa3-24cb2e56d768)
-
